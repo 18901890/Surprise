@@ -9,4 +9,4 @@ else:
         ans = -ans
     print 'Cube Root of ' + str(x) + ' is ' + str(ans)
     
-    //this is a comment//
+    Redirect is not working!
